@@ -1,0 +1,4 @@
+﻿  Bai135.cpp
+C:\Users\ASUS\OneDrive\Desktop\NMLT\UIT_23521082HAM\Bai135\Bai135.cpp(22): warning C4715: 'DK1': not all control paths return a value
+C:\Users\ASUS\OneDrive\Desktop\NMLT\UIT_23521082HAM\Bai135\Bai135.cpp(29): warning C4715: 'DK2': not all control paths return a value
+  Bai135.vcxproj -> C:\Users\ASUS\OneDrive\Desktop\NMLT\UIT_23521082HAM\x64\Debug\Bai135.exe

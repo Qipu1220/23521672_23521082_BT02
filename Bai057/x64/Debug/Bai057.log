@@ -1,0 +1,3 @@
+﻿  Bai057.cpp
+C:\Users\ASUS\OneDrive\Desktop\NMLT\UIT_23521082HAM\Bai057\Bai057.cpp(24,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Bai057.vcxproj -> C:\Users\ASUS\OneDrive\Desktop\NMLT\UIT_23521082HAM\x64\Debug\Bai057.exe

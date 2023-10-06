@@ -1,0 +1,4 @@
+﻿  Bai129.cpp
+C:\Users\ASUS\OneDrive\Desktop\NMLT\UIT_23521082HAM\Bai129\Bai129.cpp(27,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\NMLT\UIT_23521082HAM\Bai129\Bai129.cpp(29,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Bai129.vcxproj -> C:\Users\ASUS\OneDrive\Desktop\NMLT\UIT_23521082HAM\x64\Debug\Bai129.exe
